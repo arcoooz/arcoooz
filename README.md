@@ -1,10 +1,23 @@
+<!--Título-->
 <h2 align="left">Olá! Meu nome é Achiles Polcelli👋🏻</h2>
+<hr>
+<details>
+  <summary>Conheça mais sobre mim</summary>
+  <ul>
+    <li>Meu nome completo é Achiles Bezerra Polcelli, tenho 19 anos de idade e atualmente moro em Osasco - São Paulo.</li>
+    <li>Sou formado no curso técnico de Técnologia da Informação e estou cursando o curso de Análise e Desenvolvimento de Sistemas.</li>
+    <li>Estou em busca do meu primeiro emprego na área.</li>
+  </ul>
+</details>
 
-###
+<!--GitHub estátisticas-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arcoooz&icons=true&theme=midnight-purple)
 
+<!--Linguagens Mais Usadas-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcoooz&hide_progress=true&theme=midnight-purple)
+
+<!--Logo das linguagens-->
 <h3 align="left">Linguagens de programção que tenho conhecimento</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -20,11 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
-
+<!--Logo dos meios de trabalho-->
 <h3 align="left">Meus meios de trabalho</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -36,11 +46,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
+<!--Logos dos meios de comunicação-->
 <h3 align="left">Principais meios de comunicação</h3>
-
-###
 
 <div align="left">
   <a href="http://www.linkedin.com/in/achiles-bezerra-polcelli-042b72238/" target="_blank">
@@ -56,22 +63,15 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+<br>
 
-###
-
+<!--Link Spotify-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f4ae1c73898vdalkpw4wnpwss&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <div align="left">
 </div>
+<br>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
