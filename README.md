@@ -79,6 +79,18 @@
 
 <br>
 
+<details>
+  <summary>Projetos de fácil acesso</summary>
+  <ul>
+    
+   <li><a href="https://arcoooz.github.io/to-do.list/">Lista de Tarefas</a></li>
+   <li><a href="https://arcoooz.github.io/valentines-day//">Pedido de namoro irrecusável</a></li>
+   <li><a href="https://arcoooz.github.io/-flowers/">Flores</a></li>
+   <li>Você pode acessar meu repositório com mais projetos, basta <a href="https://github.com/arcoooz?tab=repositories">clicar aqui</a></li>
+    
+  </ul>
+</details>
+
 <!--Link Spotify-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=f4ae1c73898vdalkpw4wnpwss&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <div align="left">
