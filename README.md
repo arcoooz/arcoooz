@@ -20,7 +20,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arcoooz&hide_progress=true&theme=midnight-purple)
 
 <!--Logo das linguagens-->
-<h3 align="left">Linguagens de programção que tenho conhecimento</h3>
+<h3 align="left">Linguagens de programação que tenho conhecimento</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
