@@ -6,12 +6,10 @@
 <details>
   <summary>Conheça mais sobre mim</summary>
   <ul>
-    
     <li>🧑🏻 Meu nome completo é Achiles Bezerra Polcelli, tenho 19 anos de idade e atualmente moro em Osasco - São Paulo.</li>
     <li>💻 Sou formado no curso técnico de Técnologia da Informação e estou cursando o curso de Análise e Desenvolvimento de Sistemas.</li>
     <li>🎵 Amo escutar música e jogar, as minhas músicas favoritas são da banda Charlie Brown Jr e meu jogo favorito é sem dúvida God of War.</li>
     <li>💼 Estou em busca da minha primeira oportunidade profissional na área de tecnologia.</li>
-    
   </ul>
 </details>
 
@@ -78,16 +76,15 @@
 </div>
 
 <br>
+<!--Projetos de fácil acesso-->
 
 <details>
   <summary>Projetos de fácil acesso</summary>
   <ul>
-    
    <li><a href="https://arcoooz.github.io/to-do.list/">Lista de Tarefas</a></li>
    <li><a href="https://arcoooz.github.io/valentines-day//">Pedido de namoro irrecusável</a></li>
    <li><a href="https://arcoooz.github.io/-flowers/">Flores</a></li>
    <li>Você pode acessar meu repositório com mais projetos, basta <a href="https://github.com/arcoooz?tab=repositories">clicar aqui</a> e você será redirecionado para meus repositório😉.</li>
-    
   </ul>
 </details>
 
