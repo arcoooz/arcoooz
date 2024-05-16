@@ -36,7 +36,7 @@
 </div>
 
 <!--Logo dos meios de trabalho-->
-<h3 align="left">Meus meios de trabalho</h3>
+<h3 align="left">Meios de trabalho</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
