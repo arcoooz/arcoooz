@@ -84,7 +84,7 @@
    <li><a href="https://arcoooz.github.io/to-do.list/">Lista de Tarefas</a></li>
    <li><a href="https://arcoooz.github.io/valentines-day//">Pedido de namoro irrecusável</a></li>
    <li><a href="https://arcoooz.github.io/-flowers/">Flores</a></li>
-   <li>Você pode acessar meu repositório com mais projetos, basta <a href="https://github.com/arcoooz?tab=repositories">clicar aqui</a> e você será redirecionado para meus repositório😉.</li>
+   <li>Você pode acessar meu repositório com mais projetos, basta <a href="https://github.com/arcoooz?tab=repositories">clicar aqui</a> e você será redirecionado para meu repositório😉.</li>
   </ul>
 </details>
 
