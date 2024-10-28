@@ -6,8 +6,8 @@
 <details>
   <summary>Conheça mais sobre mim</summary>
   <ul>
-    <li>🧑🏻 Meu nome completo é Achiles Bezerra Polcelli, tenho 19 anos de idade e atualmente moro em Osasco - São Paulo.</li>
-    <li>💻 Sou formado no curso técnico de Técnologia da Informação e estou cursando o curso de Análise e Desenvolvimento de Sistemas.</li>
+    <li>🧑🏻 Meu nome completo é Achiles Bezerra Polcelli, tenho 19 anos de idade e atualmente moro em São GOnçalo do Amarente - RN.</li>
+    <li>💻 Sou formado no curso técnico de Técnologia da Informação e estou cursando o curso de Análise e Desenvolvimento de Sistemas na Universidade FIAP.</li>
     <li>🎵 Amo escutar música e jogar, as minhas músicas favoritas são da banda Charlie Brown Jr e meu jogo favorito é sem dúvida God of War.</li>
     <li>💼 Estou em busca da minha primeira oportunidade profissional na área de tecnologia.</li>
   </ul>
